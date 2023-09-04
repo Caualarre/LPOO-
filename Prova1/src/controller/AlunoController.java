@@ -79,8 +79,7 @@ public class AlunoController {
         Aluno alunosmap = AlunosMap.get(5);
         System.out.println("\n objeto de id 5 do map: " + alunosmap);
 
-        //ordem decrescente de id
-
+        System.out.println("ordem decescente de id");
         listaAluno.sort(Comparator.comparingInt(Aluno::getId).reversed());
         System.out.println(listaAluno);
     }
