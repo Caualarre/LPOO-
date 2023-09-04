@@ -1,7 +1,7 @@
 package model;
 
 public class Aluno {
-    private int id;
+    private Integer id;
     private int cpf;
     private String nome;
     private String sobrenome;
@@ -9,12 +9,13 @@ public class Aluno {
 
     public Aluno() {
     }
-    public Aluno(int id, int cpf) {
+
+    public Aluno(Integer id, int cpf) {
         this.id = id;
         this.cpf = cpf;
     }
 
-    public Aluno(int id, int cpf, String nome, String sobrenome, String email) {
+    public Aluno(Integer id, int cpf, String nome, String sobrenome, String email) {
         this.id = id;
         this.cpf = cpf;
         this.nome = nome;
@@ -22,11 +23,11 @@ public class Aluno {
         this.email = email;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
