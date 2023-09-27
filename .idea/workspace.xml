@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaS">
-      <change afterPath="$PROJECT_DIR$/HerancaMultipla/HerancaMultipla.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaM">
+      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Automovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,7 +53,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/adria/IdeaProjects/AulasJava/HerancaMultipla/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/adria/IdeaProjects/AulasJava/HerancaMultipla/model/src/Main.java",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,9 +74,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695844018336</updated>
-      <workItem from="1695844020830" duration="400000" />
+      <workItem from="1695844020830" duration="5208000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AtividadeHerancaM">
+      <option name="closed" value="true" />
+      <created>1695844526089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695844526089</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +93,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prova atualizacao,acho" />
     <MESSAGE value="AtividadeHerancaS" />
-    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaS" />
+    <MESSAGE value="AtividadeHerancaM" />
+    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -92,9 +105,9 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java</url>
+          <url>file://$PROJECT_DIR$/HerancaMultipla/model/src/Main.java</url>
           <line>13</line>
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
