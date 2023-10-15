@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaM">
+    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaSrevisada">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/controller/FuncionarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/controller/FuncionarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Desenvolvedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Desenvolvedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorJunior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorJunior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorPleno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorPleno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorSenior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorSenior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteDesenvolvimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteDesenvolvimento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteGeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteGeral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695844018336</updated>
       <workItem from="1695844020830" duration="5324000" />
-      <workItem from="1697401171091" duration="3319000" />
+      <workItem from="1697401171091" duration="6979000" />
     </task>
     <task id="LOCAL-00002" summary="AtividadeHerancaM">
       <option name="closed" value="true" />
@@ -95,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695851582331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AtividadeHerancaSrevisada">
+      <option name="closed" value="true" />
+      <created>1697404817962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697404817962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +109,8 @@
     <MESSAGE value="prova atualizacao,acho" />
     <MESSAGE value="AtividadeHerancaS" />
     <MESSAGE value="AtividadeHerancaM" />
-    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaM" />
+    <MESSAGE value="AtividadeHerancaSrevisada" />
+    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaSrevisada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

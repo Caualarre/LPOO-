@@ -64,11 +64,11 @@ public class Caminhao extends Veiculo implements Automovel {
 
     @Override
     public String toString() {
-        return "Caminhao{" +
+        return "Caminhao" +
                 "CapacidadeCarga=" + CapacidadeCarga +
                 ", renavan='" + renavan + '\'' +
                 ", chassi='" + chassi + '\'' +
                 ", placa='" + placa + '\'' +
-                "} " + super.toString();
+                " " + super.toString() ;
     }
 }

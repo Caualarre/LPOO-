@@ -6,9 +6,18 @@ public class Carro extends Veiculo implements Automovel {
     private String chassi;
     private String placa;
 
-    public Carro(int CapacidadeMala, int numeroDeEixos, String propulsao, String marca, String modelo, int dataFab) {
+    public Carro(int capacidadeMala, String renavan, String chassi, String placa) {
+        CapacidadeMala = capacidadeMala;
+        this.renavan = renavan;
+        this.chassi = chassi;
+        this.placa = placa;
+    }
+    public Carro(int numeroDeEixos, String propulsao, String marca, String modelo, int dataFab, int capacidadeMala, String renavan, String chassi, String placa) {
         super(numeroDeEixos, propulsao, marca, modelo, dataFab);
-        this.CapacidadeMala = CapacidadeMala;
+        CapacidadeMala = capacidadeMala;
+        this.renavan = renavan;
+        this.chassi = chassi;
+        this.placa = placa;
     }
 
     @Override
@@ -42,7 +51,7 @@ public class Carro extends Veiculo implements Automovel {
     }
     @Override
     public String toString() {
-        return "Carro{" +
+        return "Carro" + " " +
                 "CapacidadeMala=" + CapacidadeMala +
                 ", NumeroDeEixos=" + getNumeroDeEixos() +
                 ", Propulsao='" + getPropulsao() + '\'' +
@@ -52,7 +61,7 @@ public class Carro extends Veiculo implements Automovel {
                 ", RENAVAN='" + getRenavan() + '\'' +
                 ", Chassi='" + getChassi() + '\'' +
                 ", Placa='" + getPlaca() + '\'' +
-                '}';
+                '\n';
     }
 
 }

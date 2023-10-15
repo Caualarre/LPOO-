@@ -61,12 +61,12 @@ abstract public class Veiculo {
 
     @Override
     public String toString() {
-        return "Veiculo{" +
+        return
                 "NumeroDeEixos=" + NumeroDeEixos +
                 ", Propulsao='" + Propulsao + '\'' +
                 ", Marca='" + Marca + '\'' +
                 ", Modelo='" + Modelo + '\'' +
                 ", DataFab=" + DataFab +
-                '}';
+                '\n';
     }
 }

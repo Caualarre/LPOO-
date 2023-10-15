@@ -31,7 +31,7 @@ public class Bicicleta extends Veiculo {
 
     @Override
     public String toString() {
-        return "Bicicleta{" +
+        return "Bicicleta" +
                 "TamanhoRoda=" + getTamanhoRoda() +
                 ", Chassi='" + getChassi() + '\'' +
                 ", NumeroDeEixos=" + getNumeroDeEixos() +
@@ -39,7 +39,7 @@ public class Bicicleta extends Veiculo {
                 ", Marca='" + getMarca() + '\'' +
                 ", Modelo='" + getModelo() + '\'' +
                 ", DataFab=" + getDataFab() +
-                '}';
+                '\n';
     }
 
 }
