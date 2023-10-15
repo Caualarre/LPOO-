@@ -32,7 +32,6 @@ public class Gerente extends Funcionario implements Investidor {
 
     @Override
     public double getBonus() {
-        // Imple
         return 0.0;
     }
 
