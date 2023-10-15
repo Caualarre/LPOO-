@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaSrevisada">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" afterDir="false" />
-    </list>
+    <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaM1revisada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695844018336</updated>
       <workItem from="1695844020830" duration="5324000" />
-      <workItem from="1697401171091" duration="6979000" />
+      <workItem from="1697401171091" duration="7293000" />
     </task>
     <task id="LOCAL-00002" summary="AtividadeHerancaM">
       <option name="closed" value="true" />
@@ -99,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697404817962</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="AtividadeHerancaM1revisada">
+      <option name="closed" value="true" />
+      <created>1697408392935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697408392935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +111,8 @@
     <MESSAGE value="AtividadeHerancaS" />
     <MESSAGE value="AtividadeHerancaM" />
     <MESSAGE value="AtividadeHerancaSrevisada" />
-    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaSrevisada" />
+    <MESSAGE value="AtividadeHerancaM1revisada" />
+    <option name="LAST_COMMIT_MESSAGE" value="AtividadeHerancaM1revisada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
