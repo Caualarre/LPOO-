@@ -9,8 +9,9 @@ public class GerenteDesenvolvimento extends Gerente{
     public double getBonus(){
         return getSalario() * 0.20;
     }
+
     @Override
     public String toString() {
-        return "GerenteDesenvolvimento{}";
-}
+        return "GerenteDesenvolvimento " + super.toString() + " Bonus" + getBonus() + "\n";
+    }
 }

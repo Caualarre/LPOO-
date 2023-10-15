@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a48e6654-ba62-424c-a8c5-6203ccd67a55" name="Changes" comment="AtividadeHerancaM">
-      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Automovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Bicicleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Caminhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/controller/VeiculoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/HerancaMultipla/src/model/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/controller/FuncionarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/controller/FuncionarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Desenvolvedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Desenvolvedor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorJunior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorJunior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorPleno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorPleno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorSenior.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/DesenvolvedorSenior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteDesenvolvimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteDesenvolvimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteGeral.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/model/GerenteGeral.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,34 +32,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2VzfpyDFqP9RP5JH5o4zQHj1yZm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/adria/IdeaProjects/AulasJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/adria/IdeaProjects/AulasJava/HerancaMultipla/model/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adria/IdeaProjects/AulasJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/adria/IdeaProjects/AulasJava/HerancaMultipla/model/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="AtividadeHerancaS">
@@ -74,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695844018336</updated>
-      <workItem from="1695844020830" duration="5208000" />
+      <workItem from="1695844020830" duration="5324000" />
+      <workItem from="1697401171091" duration="3319000" />
     </task>
     <task id="LOCAL-00002" summary="AtividadeHerancaM">
       <option name="closed" value="true" />
@@ -84,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695844526089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AtividadeHerancaM">
+      <option name="closed" value="true" />
+      <created>1695851582331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695851582331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,11 +110,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Prova1/HERANCASIMPLES/src/controller/FuncionarioController.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/HerancaMultipla/model/src/Main.java</url>
           <line>13</line>

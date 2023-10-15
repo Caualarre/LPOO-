@@ -21,6 +21,5 @@ public abstract class Funcionario {
         this.salario = salario;
     }
     public double getSalario() {
-        return this.salario;
-    }
+        return this.salario; }
 }

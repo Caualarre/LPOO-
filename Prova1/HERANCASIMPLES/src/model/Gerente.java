@@ -1,5 +1,5 @@
 package model;
-public class Gerente extends Funcionario {
+public abstract class Gerente extends Funcionario {
     public Gerente() {
         super();
     }
@@ -7,12 +7,10 @@ public class Gerente extends Funcionario {
         super(nome, salario);
     }
     @Override
-    public double getBonus(){
-        return getSalario() * 0.20;
-    }
+    public abstract double getBonus();
     @Override
     public String toString() {
-        return "\nGerente{nome=" + super.getNome()
-                + " Salario=" + super.getSalario() + "}" ;
+        return "\n Nome=" + super.getNome()
+                + " Salario=" + super.getSalario() ;
     }
 }

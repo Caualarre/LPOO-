@@ -9,8 +9,9 @@ public class DesenvolvedorPleno extends Desenvolvedor{
     public double getBonus(){
         return getSalario() * 0.05;
     }
+
     @Override
     public String toString() {
-        return "DesenvolvedorPleno{}";
+        return "DesenvolvedorPleno " + super.toString() + " Bonus" + getBonus() + "\n";
     }
 }
