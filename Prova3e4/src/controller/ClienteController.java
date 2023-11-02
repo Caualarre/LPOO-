@@ -135,10 +135,12 @@ public class ClienteController {
 
         Pedido pedido1 = new Pedido(1, dataVenda, totalPedido1, Tipo.ATENDIDO, itens, vendedor1);
         Pedido pedido2 = new Pedido(2, dataVenda, totalPedido2, Tipo.PENDENTE, itemList, vendedor1);
+        List<Pedido> vendas = new ArrayList<>();
+        vendas.add(pedido1);
+        vendas.add(pedido2);
 
         System.out.println("Relatório de Vendas:");
-        System.out.println(pedido1);
-        System.out.println(pedido2);
+        System.out.println(vendas);
 
 
         System.out.println("Estoque de Produtos com as vendas, sem considerar as vendas não finalizadas por falta de estoque:");
